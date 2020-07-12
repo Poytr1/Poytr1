@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on big data products @**microsoft**.
+- 🌱 I’m currently learning Rust and investigating on big data areas.
+- 👯 I’m looking to collaborate on static analysis tools or engineering efficiency tools.
