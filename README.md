@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on big data products @**microsoft**.
+
+- 🔭 I’m currently working at @**microsoft**.
 - 🌱 I’m currently learning Rust and investigating on big data areas.
 - 👯 I’m looking to collaborate on static analysis tools or engineering efficiency tools.
+-->
