@@ -14,6 +14,7 @@ I build cloud-scale infrastructure end-to-end — from IR/codegen pipelines to s
 ---
 
 **🛠️ Tech I work with:** C# · Rust · Go · Python · TypeScript · Java · C++ · SQL
+
 **🧠 Focus areas:** Compiler construction · IR/CodeGen · LSP · Stream processing · Distributed systems · LLM agents
 
 [![GitHub followers](https://img.shields.io/github/followers/Poytr1?label=Follow&style=social)](https://github.com/Poytr1)
