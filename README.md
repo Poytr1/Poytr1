@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Pengcheng Xu (Poytr1)
+### Hi there 👋 I'm Pengcheng Xu (PC)
 
 Technical Lead @**microsoft** working on **compilers, runtimes, streaming & LLM-agent systems**.
 I build cloud-scale infrastructure end-to-end — from IR/codegen pipelines to sandboxed multi-tenant runtimes.
@@ -9,7 +9,7 @@ I build cloud-scale infrastructure end-to-end — from IR/codegen pipelines to s
 - 👯 I'm looking to collaborate on **static analysis tools, compilers, and engineering-efficiency / dev tooling**.
 - 💬 Ask me about **streaming compilers, language servers (LSP), code generation, runtime sandboxing, and agentic workflows**.
 - 📫 How to reach me: **pooytr1@gmail.com**
-- ⚡ Fun fact: I love turning stochastic, multi-step LLM reasoning into deterministic, zero-token shell scripts.
+- ⚡ Fun fact: LLM agents are fantastic, but I also love stochastic, deterministic systems.
 
 ---
 
