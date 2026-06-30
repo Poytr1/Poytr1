@@ -5,7 +5,7 @@ I build cloud-scale infrastructure end-to-end — from IR/codegen pipelines to s
 
 - 🔭 I'm currently working at **@microsoft** on **Microsoft Fabric Eventstreams** — owning the core streaming engine, backend compilation pipeline, and IR/CodeGen subsystems.
 - 🌱 I'm currently learning **AI Infrastructure** — model serving, inference optimization, and the systems that power large-scale LLM workloads.
-- 🤖 I build **LLM-agent tooling** — AgentJIT (JIT compiler daemon for agents), Changelogue (agent-driven release intelligence), and contribute to [sentioxyz/sentio](https://github.com/sentioxyz/sentio).
+- 🤖 I build **LLM-agent tooling** — AgentJIT (JIT compiler daemon for agents), Changelogue (agent-driven release intelligence), and contribute to [sentioxyz](https://github.com/sentioxyz).
 - 👯 I want to build **agentic applications** and am looking to collaborate on **AI infra, agent frameworks, and engineering-efficiency / dev tooling**.
 - 💬 Ask me about **streaming compilers, language servers (LSP), code generation, runtime sandboxing, and agentic workflows**.
 - 📫 How to reach me: **pooytr1@gmail.com**
